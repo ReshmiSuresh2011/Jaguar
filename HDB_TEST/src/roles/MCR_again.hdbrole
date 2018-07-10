@@ -6,7 +6,9 @@
 		    			  "SELECT CDS METADATA",
 		    			  "SELECT",
 		    			  "INSERT",
-		    			  "EXECUTE"
+		    			  "EXECUTE",
+		    			  "DELETE",
+		    			  "UPDATE"
 		   ]
 		}]
 		
